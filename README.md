@@ -1,5 +1,5 @@
-# client
-
+c'est la prtie 2 du projet api-posts : vous trouver ici le client vuejs 
+vous pouvez afficher les photos du projet dans le dossier pic
 ## Project setup
 ```
 npm install
